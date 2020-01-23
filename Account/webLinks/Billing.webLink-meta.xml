@@ -5,7 +5,7 @@
     <displayType>link</displayType>
     <encodingKey>UTF-8</encodingKey>
     <hasMenubar>true</hasMenubar>
-    <hasScrollbars>true</hasScrollbars>
+    <hasScrollbars>false</hasScrollbars>
     <hasToolbar>true</hasToolbar>
     <height>600</height>
     <isResizable>true</isResizable>
